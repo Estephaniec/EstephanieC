@@ -104,8 +104,7 @@ Creo en crear **software intuitivo, mantenible y de alta calidad**.
 ## Conecta Conmigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/estephanie-cerdas-3b8649223)
-💼 Estephanie Cerdas
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estephanicerdas@gmail.com)
-📧 estephanicerdas@gmail.com
 
+💼 Estephanie Cerdas | 📧 estephanicerdas@gmail.com
 ---
