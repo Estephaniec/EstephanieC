@@ -55,11 +55,6 @@ Soy una desarrolladora apasionada por crear interfaces intuitivas y escalables. 
 ![SQL Server](https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![OLAP](https://img.shields.io/badge/OLAP-4CAF50?style=for-the-badge)
 
-### Arquitectura & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![DDD](https://img.shields.io/badge/DDD-FF6B6B?style=for-the-badge)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
 ### Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -71,9 +66,9 @@ Soy una desarrolladora apasionada por crear interfaces intuitivas y escalables. 
 | Área | Descripción |
 |--------|-----------|
 | **Frontend Moderno** | Desarrollo con Angular, React y Vite. Aplicaciones responsive, accesibles e intuitivas |
-| **Full Stack** | Soluciones completas desde frontend hasta backend con arquitecturas escalables |
+| **Full Stack** | Soluciones completas desde frontend hasta backend |
 | **Testing** | Pruebas unitarias, integración y E2E usando Cypress, Karma y Jasmine |
-| **APIs REST** | Consumo, integración y documentación de APIs con best practices |
+| **APIs REST** | Consumo, integración y documentación de APIs |
 | **Backend Robusto** | Node.js, .NET, bases de datos SQL/NoSQL, cronjobs y reportes |
 | **Inteligencia de Negocios** | ETL, Data Warehouse, cubes OLAP, MDX y dashboards interactivos |
 | **Visualización de Datos** | Reportes dinámicos, gráficos y KPIs con Power BI y Tableau |
@@ -82,9 +77,8 @@ Soy una desarrolladora apasionada por crear interfaces intuitivas y escalables. 
 
 ## 💡 Filosofía de Desarrollo
 
-Creo en crear **software sostenible, mantenible y de alta calidad**.
+Creo en crear **software intuitivo, mantenible y de alta calidad**.
 
-↳ **Arquitectura & Orden** - Estructura escalable con patrones reconocidos (SOLID, DDD, Clean Architecture)  
 ↳ **Código Limpio** - Legible, con propósito único y fácil de mantener  
 ↳ **Documentación Clara** - APIs documentadas, flujos explicados, decisiones registradas  
 ↳ **Tecnología Moderna** - Sintaxis vigente, evitando patrones deprecated  
@@ -109,7 +103,7 @@ Creo en crear **software sostenible, mantenible y de alta calidad**.
 ---
 ## Conecta Conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/estephaniec)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/estephaniec](https://www.linkedin.com/in/estephanie-cerdas-3b8649223 ))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estephanicerdas@gmail.com)
 
 ---
