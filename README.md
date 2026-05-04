@@ -103,19 +103,7 @@ Creo en crear **software intuitivo, mantenible y de alta calidad**.
 ---
 ## Conecta Conmigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/estephaniec](https://www.linkedin.com/in/estephanie-cerdas-3b8649223 ))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/estephanie-cerdas-3b8649223])
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:estephanicerdas@gmail.com)
-
----
-
-## Estadísticas
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Estephaniec&theme=radical&show_icons=true&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Estephaniec&theme=radical&layout=compact)
-
-</div>
 
 ---
